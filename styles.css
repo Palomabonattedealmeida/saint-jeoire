@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(214, 225, 214);
+    color: rgb(8, 8, 4);
+    margin: 0;
+    padding: 0;
+    font-family: "Shadows Into Light" , sans-serif;
+  }
+
+  
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    min-height: 80%;
+    background-image: url(logo_Saint.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 25% 108%;
+  } 
+
+    
+  nav ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 10px;
+    background-color: rgba(155, 164, 155, 0);
+    background-position: left;
+    
+  }
+  
+  nav ul li {
+    display: flex;
+    text-align: center;
+  }
+
+  nav ul h1 {
+    text-align: center;
+    font: size 70px;;
+  }
+
+  
+  nav ul li a {
+    display: inline-block;
+    padding: 20px 40px;
+    color: rgb(9, 12, 9);
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: rgb(131, 142, 131)ld;
+    text-align: center;
+    padding: 10px;
+  }
+  
