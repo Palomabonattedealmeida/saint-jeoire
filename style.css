@@ -147,41 +147,6 @@ body {
     background-color: rgb(131, 142, 131)ld;
     text-align: center;
     padding: 180px;
-  }
+  }  
+
   
-
-  /* Estilos para telas maiores */
-
-@media (min-width: 768px) {
-  header {
-    padding: 40px;
-  }
-
-  .principal {
-    padding: 5em 0;
-    max-width: 960px;
-    margin: 0 auto;
-  }
-
-  .imagem-grafico {
-    width: 60%;
-    float: left;
-  }
-
-  .lista-escopo {
-    width: 60%;
-  }
-
-  .conteudo-escopo {
-    width: 70%;
-  }
-
-  main {
-    padding: 40px;
-  }
-
-  footer {
-    padding: 40px;
-  }
-}
-
